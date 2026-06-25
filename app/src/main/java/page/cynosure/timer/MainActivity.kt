@@ -253,4 +253,3 @@ fun Preview() {
 // Press and hold to reset time in fullscreen?
 // Instructions
 // Get rid of start/pause/resume?
-// Setup global gitignore (in dotfiles) to not store .idea, .vscode, etc
