@@ -1,9 +1,8 @@
-A simple timer, so you can focus on speaking.
+A simple timer designed for debaters specifically, so you can focus on speaking or judging.
 
-Tap anywhere to start and stop the timer. Press and hold while paused to reset.
-The timing of bells can be customised: Ring a bell at the first and last minute, one minute before the end, or disable them entirely. Press and hold the top bar to test the volume.
+Tap anywhere to start and stop the timer. Press and hold while paused to reset the timer.
+The timing of bells can be customised: Ring a bell at the first and last minute, one minute before the end, or disable them entirely. Press and hold the top bar in to trigger a bell, and to test the volume.
 Landscape fullscreen mode makes the text extra large so it's easy to glance at while speaking.
 Count up or count down.
 Protected time is shown with a blue background, overtime is shown with a red background. There's a light and dark theme.
-
-See https://cynosure.page/blog/2026-06-22/i-made-an-app/ for more details.
+You can time speeches between 3 and 8 minutes, making this suitable for most formats, including British Parliamentary, Impromptu, and Asian Parliamentary.

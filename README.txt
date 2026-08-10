@@ -1,9 +1,5 @@
-A simple timer, so you can focus on speaking.
-
-Tap anywhere to start and stop the timer. Press and hold while paused to reset.
-The timing of bells can be customised: Ring a bell at the first and last minute, one minute before the end, or disable them entirely. Press and hold the top bar to test the volume.
-Fullscreen mode.
-Count up or count down.
-Protected time is shown with a blue background, overtime is shown with a red background. There's a light and dark theme.
+A minimalist timer for use during debating competitions. This app is designed to simplify the interaction so you can focus on speaking or judges.
+It includes customisable bells to mark protected time, or the final minute which is particularly useful for judges.
+The extra large landscape view makes the time clear, even when quickly glancing down. The background color changes to make it even clearer what phase the speech is currently in.
 
 See https://cynosure.page/blog/2026-06-22/i-made-an-app/ for more details.
